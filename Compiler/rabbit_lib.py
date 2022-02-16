@@ -199,10 +199,9 @@ def dabits_LTZ(x, y, circuit):
 
 
 ## FACADE Methods for rabbit ##
-# rabbit main facade
+# rabbit main facade, returns x<=y
 # x and y are sints (if not choose RABBIT_LESS_THAN mode),
-# note that conv returns x<=y instead of x<y
-# returns a sregint
+# returns a sregint except on dabits_LTZ
 def rabbit(x, y, mode=Mode.DABITS_LTZ):
     """
      the difference of the inputs is bounded to 2^63 on either side (+/-)
