@@ -1,5 +1,5 @@
 # beyond_rabbit (an MPC `SCALE-MAMBA` Implementation)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://eprint.iacr.org/2022/xxx)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://eprint.iacr.org/2022/4664)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://cryptography.tii.ae/about-us)\
 A __Rabbit through the mirror__ full implementation. eprint to be added, shortly. This repository includes:
 
