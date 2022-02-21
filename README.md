@@ -1,9 +1,9 @@
 # beyond_rabbit (an MPC `SCALE-MAMBA` Implementation)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://eprint.iacr.org/2022/xxx)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://eprint.iacr.org/2022/202)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://cryptography.tii.ae/about-us)\
 A __Rabbit through the mirror__ full implementation. eprint to be added, shortly. This repository includes:
 
-* Basic random sampling using dabits in MAMBA. 
+* Basic random sampling using `dabits` in MAMBA. 
 * VHDL Circuits and Bristol Fashion Files.
 * Constant Round implementations of Rabbit and Catrina comparison protocols from Through the Mirror.  
 * A `relu` implementation, and a complementing library.
