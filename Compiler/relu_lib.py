@@ -46,8 +46,6 @@ def relu(x, gradient=Gradient.OFF):
 
 # returns RELUX(x) on sfix as in pytorch
 def relu_sfix(x, gradient=Gradient.OFF):
-    result = relu(x.v, gradient)
-
     if gradient == Gradient.ON:
         return relu_response(sfix(result.get_value()), result.get_gradient())
     elif gradient == Gradient.OFF:

@@ -40,5 +40,5 @@ Abdelrahaman ALY
 * Eugenio SALAZAR
 
 
-Copyright (c) 2022 Technology Innovation Institute - Crypto Group.\
+Copyright (c) 2022 Technology Innovation Institute - Cryptography Research Centre.\
 Licensed under the MIT license.
